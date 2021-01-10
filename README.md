@@ -15,8 +15,6 @@
     </a>
 </div>
 
----
-
 <div style="text-align: center">
     <h2 style="margin-top: 0;padding-top:0">Contact Me</h2>
     <img src='https://img.shields.io/badge/discord-sleepy8096-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge&logo=discord&logoColor=ff38b8' alt='Discord'>
@@ -29,8 +27,6 @@
 		<img src='https://img.shields.io/badge/steam-SkirtGoSpin-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge&logo=twitter&logoColor=ff38b8' alt='Twitter'>
     </a>
 </div>
-
----
 
 <div style="text-align: center">
     <h2 style="margin-top: 0;padding-top:0">Editor and Languages</h2>
