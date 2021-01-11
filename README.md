@@ -1,23 +1,23 @@
 <br/>
-<div style="text-align: center">
+<p align="center">
     <img width="200" src="https://images.sleepydurr.uk/util/SleepyDurr.gif"/>
-    <h1 style='line-height:0.1em; margin: 0;'>SleepyDurr</h1>
-    <p>Hello, my name is Amelia, or Sleepy/SleepyDurr if going by alias.<br/>
+    <h1 align="center" style='line-height:0.1em; margin: 0;'>SleepyDurr</h1>
+    <p align="center">Hello, my name is Amelia, or Sleepy/SleepyDurr if going by alias.<br/>
     I have been learning JavaScript on-and-off for about 3 years and just recently dived into TypeScript.<br/>
     My most recent project can be found <a href="https://github.com/SleepyDurr/SusuTS.git">here</a>.</p>
-</div>
+</p>
 
-<div style="text-align: center">
-    <h2 style="margin-top: 0;">Support</h2>
-    <p style="line-height: 0.1em">If you would like to support me you can do so on Ko-fi.</p>
-    <a href='https://ko-fi.com/Lia'>
+<h2 align="center" style="margin-top: 0;">Support</h2>
+<p align="center" style="line-height: 0.1em">If you would like to support me you can do so on Ko-fi.</p>
+<p align="center">
+	<a href='https://ko-fi.com/Lia'>
 		<img src='https://img.shields.io/badge/ko&#8208fi-Lia-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge' alt='Ko-Fi'>
-    </a>
-</div>
+	</a>
+</p>
 
-<div style="text-align: center">
-    <h2 style="margin-top: 0;padding-top:0">Contact Me</h2>
-    <img src='https://img.shields.io/badge/discord-sleepy8096-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge&logo=discord&logoColor=ff38b8' alt='Discord'>
+<h2 align="center" style="margin-top: 0;padding-top:0">Contact Me</h2>
+<p align="center">
+	<img src='https://img.shields.io/badge/discord-sleepy8096-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge&logo=discord&logoColor=ff38b8' alt='Discord'>
     &thinsp;
     <a href='https://twitter.com/SleepyDurr'>
 		<img src='https://img.shields.io/badge/twitter-@SleepyDurr-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge&logo=twitter&logoColor=ff38b8' alt='Twitter'>
@@ -26,11 +26,11 @@
     <a href='https://steamcommunity.com/id/SkirtGoSpin'>
 		<img src='https://img.shields.io/badge/steam-SkirtGoSpin-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge&logo=twitter&logoColor=ff38b8' alt='Twitter'>
     </a>
-</div>
+</p>
 
-<div style="text-align: center">
-    <h2 style="margin-top: 0;padding-top:0">Editor and Languages</h2>
-    <a href='https://www.jetbrains.com/webstorm/'>
+<h2 align="center" style="margin-top: 0;padding-top:0">Editor and Languages</h2>
+<p align="center">
+	<a href='https://www.jetbrains.com/webstorm/'>
 		<img src='https://img.shields.io/badge/editor-webstorm-58e4ad?logoWidth=30&labelColor=black&style=for-the-badge&logo=webstorm&logoColor=58e4ad' alt='WebStorm'>
     </a><br/><br/>
     <a href='https://github.com/discordjs/discord.js'>
@@ -48,11 +48,11 @@
     <a href='https://nodejs.org/en/'>
 		<img src='https://img.shields.io/badge/code-node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
     </a> <br/>
-</div>
+</p>
 
 ---
 
-<div style="text-align: center">
+<p align="center">
     <a>
         <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=SleepyDurr&theme=onedark" />
     </a>
@@ -60,11 +60,11 @@
     <a href="https://github.com/anuraghazra/convoychat">
         <img align="center" src="https://riday-ghstats.vercel.app/api?username=SleepyDurr&hide=prs,issues&show_icons=true&theme=onedark" />
     </a>
-</div>
+</p>
 
 ---
 
-<div style="text-align: center">
-    <h2 style="margin-top: 0;padding-top:0">Stats!</h2>
-    <img src="https://metrics.lecoq.io/SleepyDurr?base.repositories=0&languages=1&isocalendar=1&followup=1" alt="Stats">
-</div>
+<h2 align="center" style="margin-top: 0;padding-top:0">Stats!</h2>
+<p align="center">
+	<img src="https://metrics.lecoq.io/SleepyDurr?base.repositories=0&languages=1&isocalendar=1&followup=1" alt="Stats">
+</p>
