@@ -17,7 +17,7 @@
 
 <h2 align="center" style="margin-top: 0;padding-top:0">Contact Me</h2>
 <p align="center">
-	<img src='https://img.shields.io/badge/discord-sleepy8096-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge&logo=discord&logoColor=ff38b8' alt='Discord'>
+	<img src='https://img.shields.io/badge/discord-sleepy%238096-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge&logo=discord&logoColor=ff38b8' alt='Discord'>
     &thinsp;
     <a href='https://twitter.com/SleepyDurr'>
 		<img src='https://img.shields.io/badge/twitter-@SleepyDurr-ff38b8?logoWidth=30&labelColor=black&style=for-the-badge&logo=twitter&logoColor=ff38b8' alt='Twitter'>
