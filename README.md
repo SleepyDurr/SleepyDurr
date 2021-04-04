@@ -54,11 +54,11 @@
 
 <p align="center">
     <a>
-        <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=SleepyDurr&theme=onedark" />
+        <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=SleepyLia&theme=onedark" />
     </a>
     &emsp;
-    <a href="https://github.com/anuraghazra/convoychat">
-        <img align="center" src="https://riday-ghstats.vercel.app/api?username=SleepyDurr&hide=prs,issues&show_icons=true&theme=onedark" />
+    <a>
+        <img align="center" src="https://riday-ghstats.vercel.app/api?username=SleepyLia&hide=prs,issues&show_icons=true&theme=onedark" />
     </a>
 </p>
 
@@ -66,5 +66,5 @@
 
 <h2 align="center" style="margin-top: 0;padding-top:0">Stats!</h2>
 <p align="center">
-	<img src="https://metrics.lecoq.io/SleepyDurr?base.repositories=0&languages=1&isocalendar=1&followup=1" alt="Stats">
+	<img src="https://metrics.lecoq.io/SleepyLia?base.repositories=0&languages=1&isocalendar=1&followup=1" alt="Stats">
 </p>
