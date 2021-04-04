@@ -1,8 +1,8 @@
 <br/>
 <p align="center">
     <img width="200" src="https://images.sleepydurr.uk/util/SleepyDurr.gif"/>
-    <h1 align="center" style='line-height:0.1em; margin: 0;'>SleepyDurr</h1>
-    <p align="center">Hello, my name is Sleepy/SleepyDurr.<br/>
+    <h1 align="center" style='line-height:0.1em; margin: 0;'>Sleepy</h1>
+    <p align="center">Hello, my name is Sleepy.<br/>
     I have been learning JavaScript on-and-off for about 3 years and just recently dived into TypeScript.<br/>
     My most recent project can be found <a href="https://github.com/SleepyDurr/SusuTS.git">here</a>.</p>
 </p>
